@@ -1,0 +1,13 @@
+li{
+    float:left;
+    margin:15px;
+
+}
+
+.highlight{
+    font-weight: bold;
+}
+
+#active{
+    background-color: rgb(99, 213, 241);
+}
